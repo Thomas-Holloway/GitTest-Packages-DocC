@@ -10,22 +10,9 @@
 		358966662D9370CB0091A12D /* GitTest + Packages + DocC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "GitTest + Packages + DocC.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		358966782D9370CF0091A12D /* Exceptions for "GitTest + Packages + DocC" folder in "GitTest + Packages + DocC" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = 358966652D9370CB0091A12D /* GitTest + Packages + DocC */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		358966682D9370CB0091A12D /* GitTest + Packages + DocC */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				358966782D9370CF0091A12D /* Exceptions for "GitTest + Packages + DocC" folder in "GitTest + Packages + DocC" target */,
-			);
 			path = "GitTest + Packages + DocC";
 			sourceTree = "<group>";
 		};
@@ -147,6 +134,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "GitTest + Packages + DocC/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "GitTest + Packages + DocC";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -174,6 +162,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "GitTest + Packages + DocC/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "GitTest + Packages + DocC";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
